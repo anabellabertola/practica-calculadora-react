@@ -1,5 +1,6 @@
 import React from 'react';
 
 function Boton (props) {
-  return 
+  return (
+div className={`boton-contenedor $(esOperador(props.children) ? 'operador' : '';
     
